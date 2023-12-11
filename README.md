@@ -27,7 +27,7 @@
 <!-- Socials -->
 ## Socials
 - <a href="https://www.linkedin.com/in/chidera-anele/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&labelColor=white" alt="LinkedIn" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://www.instagram.com/chidera.anele/">
     <img src="https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="width: 50%; height: auto; font-size: 30px;">

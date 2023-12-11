@@ -19,7 +19,7 @@
 <!-- Skills and Badges -->
 ## Skills and Badges
 - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 100%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - [![GitHub followers](https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black)](https://github.com/Chidera0001)
 <!-- Socials -->

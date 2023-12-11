@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://www.instagram.com/chidera.anele/">
-    <img src="https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&labelColor=black" alt="Instagram" style="width: 50%; height: auto; font-size: 30px; font-background: black;">
+    <img src="https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&labelColor=black" alt="Instagram" style="width: 50%; height: auto; font-size: 30px; background:black;">
   </a>
 
 <!-- Skills -->

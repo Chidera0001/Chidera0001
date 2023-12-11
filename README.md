@@ -21,41 +21,43 @@
 - <a href="https://github.com/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
   </a>
-- [![GitHub followers](https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black)](https://github.com/Chidera0001)
+- <a href="https://github.com/Chidera0001">
+    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 50%; height: auto; font-size: 30px;">
+  </a>
 <!-- Socials -->
 ## Socials
 - <a href="https://www.linkedin.com/in/chidera-anele/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&labelColor=white" alt="LinkedIn" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect?style=for-the-badge&logo=linkedin&labelColor=white" alt="LinkedIn" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://www.instagram.com/chidera.anele/">
-    <img src="https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/Instagram-Follow?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 
 <!-- Skills -->
 ## Skills
 ### Programming Languages
 - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/your-Python-repo">
-    <img src="https://img.shields.io/badge/Python-Developer-black?style=for-the-badge&logo=python" alt="Python" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/Python-Developer-black?style=for-the-badge&logo=python" alt="Python" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 
 ### Web Technologies
 - <a href="https://github.com/your-HTML-repo">
-    <img src="https://img.shields.io/badge/HTML5-Developer-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/HTML5-Developer-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/your-CSS-repo">
-    <img src="https://img.shields.io/badge/CSS3-Developer-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/CSS3-Developer-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/your-React-repo">
-    <img src="https://img.shields.io/badge/React-Developer-black?style=for-the-badge&logo=react" alt="React" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/React-Developer-black?style=for-the-badge&logo=react" alt="React" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/your-Node.js-repo">
-    <img src="https://img.shields.io/badge/Node.js-Developer-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/Node.js-Developer-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/your-VSCode-repo">
-    <img src="https://img.shields.io/badge/VSCode-Developer-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 6em; height: auto; font-size: 2em;">
+    <img src="https://img.shields.io/badge/VSCode-Developer-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 
 <!-- Top Repositories -->

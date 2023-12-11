@@ -35,6 +35,9 @@
 - [![CSS](https://img.shields.io/badge/-CSS-fff?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/your-CSS-repo)
 - [![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/your-React-repo)
 - [![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=node.js&logoColor=43853D)](https://github.com/your-Node.js-repo)
+- [![Express.js](https://img.shields.io/badge/-Express.js-fff?style=flat-square&logo=express&logoColor=000000)](https://github.com/your-Express.js-repo)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=mongodb&logoColor=47A248)](https://github.com/your-MongoDB-repo)
+- [![VSCode](https://img.shields.io/badge/-VSCode-fff?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/your-VSCode-repo)
 
 ## Top Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=JavaScript)](https://github.com/Chidera0001/JavaScript)

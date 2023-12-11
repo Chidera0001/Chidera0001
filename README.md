@@ -18,7 +18,7 @@
 
 <!-- Skills and Badges -->
 ## Skills and Badges
-<div display: inline-block;>
+<div class ='skills_badges' display: inline-block;>
   - <a href="https://github.com/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
   </a>
@@ -28,25 +28,29 @@
 </div>
 
 ## Socials
-- <a href="https://www.linkedin.com/in/chidera-anele/">
+<div class ='socials' display: inline-block;>
+  - <a href="https://www.linkedin.com/in/chidera-anele/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://www.instagram.com/chidera.anele/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
   </a>
-  
+</div>
 <!-- Skills -->
 ## Skills
 ### Programming Languages
-- <a href="https://github.com/JavaScript">
+<div class ='languages' display: inline-block;>
+  - <a href="https://github.com/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-Python-repo">
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: auto; font-size: 15px;">
   </a>
+</div>
 
 ### Web Technologies
-- <a href="https://github.com/your-HTML-repo">
+<div class ='dev_tech' display: inline-block;>
+  - <a href="https://github.com/your-HTML-repo">
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-CSS-repo">
@@ -61,6 +65,7 @@
 - <a href="https://github.com/your-VSCode-repo">
     <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 15px;">
   </a>
+</div>
 
 <!-- Top Repositories -->
 ## Top Repositories

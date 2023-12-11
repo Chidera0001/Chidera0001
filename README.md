@@ -18,45 +18,45 @@
 <!-- Skills and Badges -->
 ## Skills and Badges
 - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/Chidera0001">
-    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 40%; height: auto; font-size: 20px;">
+    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 
 ## Socials
 - <a href="https://www.linkedin.com/in/chidera-anele/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://www.instagram.com/chidera.anele/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
   </a>
   
 <!-- Skills -->
 ## Skills
 ### Programming Languages
 - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-Python-repo">
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 
 ### Web Technologies
 - <a href="https://github.com/your-HTML-repo">
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-CSS-repo">
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-React-repo">
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-Node.js-repo">
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-VSCode-repo">
-    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 
 <!-- Top Repositories -->

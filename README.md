@@ -57,7 +57,7 @@
 ## Contributions
 ![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=dark)
 
-<!-- GitHub Trophies -->
+## GitHub Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
 
 ## Socials

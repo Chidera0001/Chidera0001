@@ -32,21 +32,6 @@
   </a>
 </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
-
-<!-- GitHub Trophies -->
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
-
-## Socials
-<div class ='socials' display: inline-block;>
-  - <a href="https://www.linkedin.com/in/chidera-anele/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-- <a href="https://www.instagram.com/chidera.anele/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-</div>
-
 ### Web Technologies
 <div class ='dev_tech' display: inline-block;>
   - <a href="https://github.com/your-HTML-repo">
@@ -63,6 +48,22 @@
   </a>
 - <a href="https://github.com/your-VSCode-repo">
     <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 10px;">
+  </a>
+</div>
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
+
+<!-- GitHub Trophies -->
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
+
+## Socials
+<div class ='socials' display: inline-block;>
+  - <a href="https://www.linkedin.com/in/chidera-anele/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 25%; height: auto; font-size: 15px;">
+  </a>
+- <a href="https://www.instagram.com/chidera.anele/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 </div>
 

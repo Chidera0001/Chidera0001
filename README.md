@@ -42,9 +42,5 @@
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=alu-back-end)](https://github.com/Chidera0001/alu-back-end)
 ...
 
-## Spotify
-### Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Dera)
-
 ## Contributions
 ![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Chidera0001)

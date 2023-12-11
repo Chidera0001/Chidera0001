@@ -25,10 +25,10 @@
 ### Programming Languages
 <div class ='languages' display: inline-block;>
   - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: 10%; font-size: 15px;">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: 10px; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-Python-repo">
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: 10%; font-size: 10px;">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: 10px; font-size: 10px;">
   </a>
 </div>
 

@@ -50,9 +50,12 @@
     <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 10px;">
   </a>
 </div>
-
-
+</br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
+</br>
+
+## Contributions
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=dark)
 
 <!-- GitHub Trophies -->
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
@@ -74,8 +77,6 @@
 ...
 
 <!-- Contributions -->
-## Contributions
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=dark)
 
 
 

@@ -43,4 +43,4 @@
 ...
 
 ## Contributions
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Chidera0001)
+![Your GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=dark)

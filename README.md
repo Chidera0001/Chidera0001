@@ -15,7 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
 
 <!-- GitHub Trophies -->
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=darkcolor=black)
 
 <!-- Skills and Badges -->
 ## Skills and Badges

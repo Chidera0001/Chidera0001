@@ -61,15 +61,23 @@
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
 
 ## Random Dev Quote
-<blockquote id="devquote"></blockquote>
+<blockquote>
+  <p align="center">
+    <em>"<!-- RANDOM DEV QUOTE -->"</em>
+  </p>
+</blockquote>
+
+<!-- Refresh quote every 5 minutes -->
 <script>
-async function getDevQuote() {
-  const response = await fetch('https://programming-quotes-api.herokuapp.com/quotes/random');
-  const data = await response.json();
-  document.getElementById('devquote').innerHTML = data.en;
-}
-getDevQuote();
-setInterval(getDevQuote, 300000); // Update every 5 minutes
+  setInterval(() => {
+    fetch('https://api.quotable.io/random')
+      .then(response => response.json())
+      .then(data => {
+        const quoteElement = document.querySelector('blockquote p em');
+        quoteElement.textContent = data.content;
+      })
+      .catch(error => console.error('Error fetching random quote:', error));
+  }, 300000); // 5 minutes in milliseconds
 </script>
 
 ## Socials

@@ -60,6 +60,18 @@
 ## GitHub Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
 
+## Random Dev Quote
+<blockquote id="devquote"></blockquote>
+<script>
+async function getDevQuote() {
+  const response = await fetch('https://programming-quotes-api.herokuapp.com/quotes/random');
+  const data = await response.json();
+  document.getElementById('devquote').innerHTML = data.en;
+}
+getDevQuote();
+setInterval(getDevQuote, 300000); // Update every 5 minutes
+</script>
+
 ## Socials
 <div class ='socials' display: inline-block;>
   - <a href="https://www.linkedin.com/in/chidera-anele/">

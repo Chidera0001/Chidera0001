@@ -30,15 +30,15 @@
 <!-- Skills -->
 ## Skills
 ### Programming Languages
-- [![JavaScript](https://img.shields.io/badge/-fff?style=for-the-badge&logo=javascript&logoColor=ddc508&labelColor=black)](https://github.com/JavaScript){: style="font-size: 2em;"}
-- [![Python](https://img.shields.io/badge/-fff?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://github.com/your-Python-repo){: style="font-size: 2em;"}
+- [![JavaScript](https://img.shields.io/badge/-fff?style=for-the-badge&logo=javascript&logoColor=ddc508&labelColor=black)](https://github.com/JavaScript)
+- [![Python](https://img.shields.io/badge/-fff?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://github.com/your-Python-repo)
 
 ### Web Technologies
-- [![HTML](https://img.shields.io/badge/-fff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](https://github.com/your-HTML-repo){: style="font-size: 2em;"}
-- [![CSS](https://img.shields.io/badge/-fff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://github.com/your-CSS-repo){: style="font-size: 2em;"}
-- [![React](https://img.shields.io/badge/-fff?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)](https://github.com/your-React-repo){: style="font-size: 2em;"}
-- [![Node.js](https://img.shields.io/badge/-fff?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=black)](https://github.com/your-Node.js-repo){: style="font-size: 2em;"}
-- [![VSCode](https://img.shields.io/badge/-fff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black)](https://github.com/your-VSCode-repo){: style="font-size: 2em;"}
+- [![HTML](https://img.shields.io/badge/-fff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](https://github.com/your-HTML-repo)
+- [![CSS](https://img.shields.io/badge/-fff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://github.com/your-CSS-repo)
+- [![React](https://img.shields.io/badge/-fff?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)](https://github.com/your-React-repo)
+- [![Node.js](https://img.shields.io/badge/-fff?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=black)](https://github.com/your-Node.js-repo)
+- [![VSCode](https://img.shields.io/badge/-fff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black)](https://github.com/your-VSCode-repo)
 
 <!-- Top Repositories -->
 ## Top Repositories

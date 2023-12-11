@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 </div>
-<!-- Skills -->
+
 ## Skills
 ### Programming Languages
 <div class ='languages' display: inline-block;>

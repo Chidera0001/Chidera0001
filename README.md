@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-Python-repo">
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: auto; font-size: 15px;">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: auto; font-size: 10px;">
   </a>
 </div>
 
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-CSS-repo">
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 25%; height: auto; font-size: 15px;">
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 25%; height: auto; font-size: 10px;">
   </a>
 - <a href="https://github.com/your-React-repo">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React" style="width: 25%; height: auto; font-size: 15px;">
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 25%; height: auto; font-size: 15px;">
   </a>
 - <a href="https://github.com/your-VSCode-repo">
-    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 15px;">
+    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: auto; font-size: 10px;">
   </a>
 </div>
 

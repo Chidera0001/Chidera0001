@@ -9,36 +9,54 @@
 💞️ I'm looking to collaborate on projects with other tech nerds.
 
 📫 How to reach me: c.anele@alustudent.com
-
-## GitHub Stats
 <!-- Your GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
 
 <!-- GitHub Trophies -->
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=darkcolor=black)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
 
 <!-- Skills and Badges -->
 ## Skills and Badges
-- [![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&labelColor=black&logoColor=ddc508)](https://github.com/JavaScript)
-- [![GitHub followers](https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black)](https://github.com/Chidera0001)
+- <a href="https://github.com/JavaScript">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=javascript&labelColor=white&logoColor=dd0000" alt="JavaScript" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- [![GitHub followers](https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black)](https://github.com/Chidera0001){: style="font-size: 2em;"}
 
 <!-- Socials -->
 ## Socials
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/chidera-anele/)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram&labelColor=black)](https://www.instagram.com/chidera.anele/)
+- <a href="https://www.linkedin.com/in/chidera-anele/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=white" alt="LinkedIn" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://www.instagram.com/chidera.anele/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
 
 <!-- Skills -->
 ## Skills
 ### Programming Languages
-- [![JavaScript](https://img.shields.io/badge/-fff?style=for-the-badge&logo=javascript&logoColor=ddc508&labelColor=black)](https://github.com/JavaScript)
-- [![Python](https://img.shields.io/badge/-fff?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)](https://github.com/your-Python-repo)
+- <a href="https://github.com/JavaScript">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=javascript&labelColor=white&logoColor=dd0000" alt="JavaScript" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://github.com/your-Python-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=python&labelColor=white&logoColor=3776AB" alt="Python" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
 
 ### Web Technologies
-- [![HTML](https://img.shields.io/badge/-fff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](https://github.com/your-HTML-repo)
-- [![CSS](https://img.shields.io/badge/-fff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://github.com/your-CSS-repo)
-- [![React](https://img.shields.io/badge/-fff?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)](https://github.com/your-React-repo)
-- [![Node.js](https://img.shields.io/badge/-fff?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=black)](https://github.com/your-Node.js-repo)
-- [![VSCode](https://img.shields.io/badge/-fff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black)](https://github.com/your-VSCode-repo)
+- <a href="https://github.com/your-HTML-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=html5&labelColor=white&logoColor=E34F26" alt="HTML" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://github.com/your-CSS-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=css3&labelColor=white&logoColor=1572B6" alt="CSS" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://github.com/your-React-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=react&labelColor=white&logoColor=61DAFB" alt="React" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://github.com/your-Node.js-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=node.js&labelColor=white&logoColor=43853D" alt="Node.js" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
+- <a href="https://github.com/your-VSCode-repo">
+    <img src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=visual-studio-code&labelColor=white&logoColor=007ACC" alt="VSCode" style="width: 6em; height: auto; font-size: 2em;">
+  </a>
 
 <!-- Top Repositories -->
 ## Top Repositories

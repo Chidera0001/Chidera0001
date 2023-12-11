@@ -54,9 +54,9 @@
 ## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
 
-## Rainbow-themed Contribution Graph
+## Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=rainbow&hide_border=true&fire=DD2727&background=000000&stroke=4285F4" alt="Contribution Graph" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=calm&hide_border=true&background=000000" alt="Contour Map Contribution Graph" style="width: 100%; height: auto; border-radius: 10px;">
 </p>
 
 ## GitHub Trophies

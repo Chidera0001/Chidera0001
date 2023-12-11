@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/JavaScript-Developer-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 50%; height: auto; font-size: 30px;">
   </a>
 - <a href="https://github.com/Chidera0001">
-    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 50%; height: auto; font-size: 30px;">
+    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 40%; height: auto; font-size: 20px;">
   </a>
 <!-- Socials -->
 ## Socials

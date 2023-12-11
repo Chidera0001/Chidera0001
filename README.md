@@ -54,31 +54,13 @@
 ## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
 
-## Contributions
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=dark)
+## Rainbow-themed Contribution Graph
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidera0001&theme=rainbow&hide_border=true&fire=DD2727&background=000000&stroke=4285F4" alt="Contribution Graph" style="width: 100%; height: auto; border-radius: 10px;">
+</p>
 
 ## GitHub Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
-
-## Random Dev Quote
-<blockquote>
-  <p align="center">
-    <em>"<!-- RANDOM DEV QUOTE -->"</em>
-  </p>
-</blockquote>
-
-<!-- Refresh quote every 5 minutes -->
-<script>
-  setInterval(() => {
-    fetch('https://api.quotable.io/random')
-      .then(response => response.json())
-      .then(data => {
-        const quoteElement = document.querySelector('blockquote p em');
-        quoteElement.textContent = data.content;
-      })
-      .catch(error => console.error('Error fetching random quote:', error));
-  }, 300000); // 5 minutes in milliseconds
-</script>
 
 ## Socials
 <div class ='socials' display: inline-block;>

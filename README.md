@@ -20,7 +20,7 @@
 - [![GitHub followers](https://img.shields.io/github/followers/Chidera0001?style=social)](https://github.com/Chidera0001)
 
 ## Socials
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/chidera-anele/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?size=300%style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/chidera-anele/)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram)](https://www.instagram.com/https://www.instagram.com/chidera.anele/)
 
 ## Skills

@@ -1,80 +1,62 @@
-👋 Hi, I am Chidera Anele. 
+**<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Chidera Anele</big>**
 
-👀 I'm interested in full-stack development, Machine Learning, and any tech 
+**Software Engineer and Artificial Intelligence Enthusiast**
+--------------------------------------------------------
 
-🌱 Software Engineering Student at the  African Leadership University in Kigali, Rwanda
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-🌱 I'm currently learning JavaScript and its libraries
+Hello! My name is Chidera Anele. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to advancing humanity leveraging  technology to drive innovation in Africa.
 
-💞️ I'm looking to collaborate on projects with other tech nerds.
+*   🌍  I'm based in Kigali, Rwanda
+*   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1MweEkyWQh0K7bhfRvRzyVbMTTmXFfYrUqGSCrn6Ah2w/edit)
+*   ✉️  You can contact me at [c.anele@alustudent.com](mailto:c.anele@alustudent.com)
+*   🧠  I'm currently learning JavaScript Node.js and Full-stack development
+*   🤝  I'm open to collaborating on Projects with Reactjs, JavaScript, Angular and AI
+*   ⚡  I'm Secretly CaptainMan... shhhh 🤫🤫
 
-📫 How to reach me: c.anele@alustudent.com
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-<!-- Skills and Badges -->
-## Skills and Badges
-<div class ='skills_badges' display: inline-block;>
-  - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-- <a href="https://github.com/Chidera0001">
-    <img src="https://img.shields.io/github/followers/Chidera0001?style=social&labelColor=black" alt="Github" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-</div>
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+</p>
+                    
+### Socials
 
-## Skills
-### Programming Languages
-<div class ='languages' display: inline-block;>
-  - <a href="https://github.com/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" style="width: 25%; height: 50px; font-size: 15px;">
-  </a>
-- <a href="https://github.com/your-Python-repo">
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python" style="width: 25%; height: 50px; font-size: 10px;">
-  </a>
-</div>
+<p align="left"> <a href="discordapp.com/users/1110773777366790144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Chidera0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://www.linkedin.com/in/chidera-anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/chidera.anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Web Technologies
-<div class ='dev_tech' display: inline-flex;>
-  - <a href="https://github.com/your-HTML-repo">
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML" style="width: 25%; height: 60px; font-size: 15px;">
-  </a>
-- <a href="https://github.com/your-CSS-repo">
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS" style="width: 25%; height: 60px; font-size: 10px;">
-  </a>
-- <a href="https://github.com/your-React-repo">
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" alt="React" style="width: 25%; height: 60px; font-size: 15px;">
-  </a>
-- <a href="https://github.com/your-Node.js-repo">
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" style="width: 25%; height: 60px; font-size: 15px;">
-  </a>
-- <a href="https://github.com/your-VSCode-repo">
-    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code" alt="VSCode" style="width: 25%; height: 60px; font-size: 10px;">
-  </a>
-</div>
+### Badges
 
-## Github Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&count_private=true&theme=dark)
+<b>My GitHub Stats</b>
 
-## GitHub Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chidera0001&theme=dark)
+![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&theme=github_dark)
 
-## Socials
-<div class ='socials' display: inline-block;>
-  - <a href="https://www.linkedin.com/in/chidera-anele/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-- <a href="https://www.instagram.com/chidera.anele/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram" style="width: 25%; height: auto; font-size: 15px;">
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chidera0001&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Top Repositories -->
-## Top Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=JavaScript&show_owner=true&theme=dark)](https://github.com/Chidera0001/JavaScript)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=alu-back-end&show_owner=true&theme=dark)](https://github.com/Chidera0001/alu-back-end)
-...
+<b>Top Repositories</b>
 
-<!-- Contributions -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=JavaScript&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+ [![Chidera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidera0001&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Chidera0001/github-readme-activity-graph)
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
+ [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nxnii5vwvqufxpavvs7y6y2h7y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-
+## A Snake is eating up my contribution graph 😱😱😨
+![](https://github.com/Chidera0001/Chidera0001/blob/output/github-contribution-grid-snake.svg)

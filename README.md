@@ -41,7 +41,7 @@ Hello! My name is Chidera Anele. I am a skilled software engineer with a keen in
 <b>My GitHub Stats</b>
 
 ![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidera0001&show_icons=true&theme=github_dark)
-
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chidera0001&show_icons=true&locale=en&layout=compact" alt="xv" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chidera0001&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <b>Top Repositories</b>

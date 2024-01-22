@@ -46,7 +46,7 @@ Hello! My name is Chidera Anele. I am a skilled software engineer with a keen in
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=JavaScript&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=my-website&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)

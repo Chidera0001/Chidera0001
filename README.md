@@ -1,6 +1,6 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Chidera Anele</big>**
 
-**Software Engineer**
+**Front-end developer**
 --------------------------------------------------------
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />

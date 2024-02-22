@@ -5,7 +5,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-Hello! My name is Chidera Anele. I am a skilled software engineer with a keen interest in Artificial Intelligence. I am passionate about contributing to advancing humanity leveraging  technology to drive innovation in Africa.
+Hello! My name is Chidera Anele. I am a UI/UX and Front-end developer. I am passionate about contributing to advancing humanity, and leveraging  technology to drive innovation in Africa.
 
 *   🌍  I'm based in Kigali, Rwanda
 *   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1MweEkyWQh0K7bhfRvRzyVbMTTmXFfYrUqGSCrn6Ah2w/edit)

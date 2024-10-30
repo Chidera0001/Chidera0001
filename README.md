@@ -1,18 +1,18 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Chidera Anele</big>**
 
-**Front-end & UI/UX developer**
+**Front-End Web Developer || React developer || Open Source Contributor || Project Manager || Sophomore Software Engineering Student**
 --------------------------------------------------------
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-Hello! My name is Chidera Anele. I am a UI/UX and Front-end developer. I am passionate about contributing to advancing humanity, and leveraging  technology to drive innovation in Africa.
+I am a front-end developer who loves to code as much as I love to lead people—think of me as the bridge between the keyboard and the conference room. With a knack for crafting user-friendly digital experiences and a soft spot for project management, I’m equally at home debugging code and navigating team dynamics. My passion? Merging tech skills with people skills to build not just great products, but great teams. Part geek, part leader, and always up for a good laugh, I believe in the power of creativity, collaboration, and a well-timed punchline to get things done.
 
 *   🌍  I'm based in Kigali, Rwanda
 *   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1MweEkyWQh0K7bhfRvRzyVbMTTmXFfYrUqGSCrn6Ah2w/edit)
 *   ✉️  You can contact me at [c.anele@alustudent.com](mailto:c.anele@alustudent.com)
-*   🧠  I'm currently learning JavaScript Node.js and Full-stack development
+*   🧠  I am proficient in Next.js, React, JavaScript, HTML5&CSS3, TailwindCSS, Material UI amongst other languages
 *   🤝  I'm open to collaborating on Projects with Reactjs, JavaScript, Angular and AI
-*   ⚡  I'm Secretly CaptainMan... shhhh 🤫🤫
+*   ⚡  If at first, you don’t succeed...Call it version 1.0 🤫🤫
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 

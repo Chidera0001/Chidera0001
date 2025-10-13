@@ -1,11 +1,11 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Chidera Anele</big>**
 
-Front-End Web Developer || React developer || Open Source Contributor || Project Manager 
+Software Engineer || Project & Product Manager 
 --------------------------------------------------------
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-I am a front-end developer who loves to code as much as I love to lead people—think of me as the bridge between the keyboard and the conference room. With a knack for crafting user-friendly digital experiences and a soft spot for project management, I’m equally at home debugging code and navigating team dynamics. My passion? Merging tech skills with people skills to build not just great products, but great teams. Part geek, part leader, and always up for a good laugh, I believe in the power of creativity, collaboration, and a well-timed punchline to get things done.
+I am a Software Engineer who loves to code as much as I love to lead people—think of me as the bridge between the keyboard and the conference room. With a knack for crafting user-friendly digital experiences and a soft spot for project management, I’m equally at home debugging code and navigating team dynamics. My passion? Merging tech skills with people skills to build not just great products, but great teams. Part geek, part leader, and always up for a good laugh, I believe in the power of creativity, collaboration, and a well-timed punchline to get things done.
 
 *   🌍  I'm based in Kigali, Rwanda
 *   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1aP0b1eiR4m_LsIBJ-t5lVnRGVUs-XsBw3fdlnw20ByY/edit?usp=sharing)

@@ -9,7 +9,7 @@ I am a Software Engineer who loves to code as much as I love to lead people—th
 
 *   🌍  I'm based in Kigali, Rwanda
 *   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1aP0b1eiR4m_LsIBJ-t5lVnRGVUs-XsBw3fdlnw20ByY/edit?usp=sharing)
-*   ✉️  You can contact me at [c.anele@alustudent.com](mailto:c.anele@alustudent.com)
+*   ✉️  You can contact me at [c.anele@alustudent.com](mailto:anelechidera4@gmail.com)
 *   🧠  I am proficient in Next.js, React, JavaScript, HTML5&CSS3, TailwindCSS, Material UI amongst other languages
 *   🤝  I'm open to collaborating on Projects with Reactjs, JavaScript, Angular and AI
 *   ⚡  If at first, you don’t succeed...Call it version 1.0 🤫🤫

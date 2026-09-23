@@ -49,6 +49,3 @@ Code is just a tool to me. I am more interested in why the problem exists in the
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
- [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)

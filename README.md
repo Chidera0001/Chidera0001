@@ -48,19 +48,8 @@ Code is just a tool to me. I am more interested in why the problem exists in the
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chidera0001&show_icons=true&locale=en&layout=compact" alt="xv" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chidera0001&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<b>Top Repositories</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=chidera-portfolio&theme=github_dark)](https://github.com/Chidera0001/chidera-portfolio)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
- [![Chidera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidera0001&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Chidera0001/github-readme-activity-graph)
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />    
  [![wakatime](https://wakatime.com/badge/user/79a153c8-56b1-4f51-a67e-2bb3e7c2319e.svg)](https://wakatime.com/@79a153c8-56b1-4f51-a67e-2bb3e7c2319e)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nxnii5vwvqufxpavvs7y6y2h7y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-## A Snake is eating up my contribution graph 😱😱😨
-![](https://github.com/Chidera0001/Chidera0001/blob/output/github-contribution-grid-snake.svg)

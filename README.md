@@ -11,7 +11,6 @@ That is me. I build to solve problems I personally faced or see people face ever
 
 Code is just a tool to me. I am more interested in why the problem exists in the first place.
 
-*   🌍  Based in Kigali, Rwanda
 *   🖥️  Portfolio & résumé at [chidera-portfolio-chi.vercel.app](https://chidera-portfolio-chi.vercel.app)
 *   ✉️  Reach me at [anelechidera4@gmail.com](mailto:anelechidera4@gmail.com)
 *   📅  Or just [book a 30-min call](https://cal.com/anele-chidera-enoeyz/30min) directly

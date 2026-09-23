@@ -1,40 +1,44 @@
 **<big>Hi</big> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <big>My name is Chidera Anele</big>**
 
-Software Engineer || Project & Product Manager 
+Product Engineer
 --------------------------------------------------------
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-I am a Software Engineer who loves to code as much as I love to lead people—think of me as the bridge between the keyboard and the conference room. With a knack for crafting user-friendly digital experiences and a soft spot for project management, I’m equally at home debugging code and navigating team dynamics. My passion? Merging tech skills with people skills to build not just great products, but great teams. Part geek, part leader, and always up for a good laugh, I believe in the power of creativity, collaboration, and a well-timed punchline to get things done.
+I got into a motorbike accident a few years back. The road had been damaged for months and nobody knew where to report it — that eventually became [Citizn](https://citiznvoice.com).
 
-*   🌍  I'm based in Kigali, Rwanda
-*   🖥️  See my Resume at [Chidera Anele](https://docs.google.com/document/d/1aP0b1eiR4m_LsIBJ-t5lVnRGVUs-XsBw3fdlnw20ByY/edit?usp=sharing)
-*   ✉️  You can contact me at [anelechidera4@gmail.com](mailto:anelechidera4@gmail.com)
-*   🧠  I am proficient in Next.js, React, JavaScript, HTML5&CSS3, TailwindCSS, Material UI amongst other languages
-*   🤝  I'm open to collaborating on Projects with Reactjs, JavaScript, Angular and AI
-*   ⚡  If at first, you don’t succeed...Call it version 1.0 🤫🤫
+That's usually how it starts for me. I notice something that doesn't work the way it should, then spend way too long trying to fix it. These days that's [iDiscovr](https://idiscovr.app) — helping independent artists find collaborators based on their actual sound instead of follower count — alongside Venue Intelligence, which I build full-time at [Venue Manager](https://www.venuemanager.net/).
+
+Code is just the tool. I'm more interested in why the problem exists in the first place.
+
+*   🌍  Based in Kigali, Rwanda
+*   🖥️  Portfolio & résumé at [chidera-portfolio-chi.vercel.app](https://chidera-portfolio-chi.vercel.app)
+*   ✉️  Reach me at [anelechidera4@gmail.com](mailto:anelechidera4@gmail.com)
+*   📅  Or just [book a 30-min call](https://cal.com/anele-chidera-enoeyz/30min) directly
+*   🛠️  Mostly React, React Native, Next.js, and Node.js — with AI/LLM integration (Gemini, Claude) folded into most of what I ship now
+*   ⚡  If at first you don't succeed... call it version 1.0 🤫
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 ### Skills 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
 ### Socials
 
-<p align="left"> <a href="discordapp.com/users/1110773777366790144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Chidera0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://https://www.linkedin.com/in/chidera-anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/chidera.anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discordapp.com/users/1110773777366790144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Chidera0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chidera-anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/chidera.anele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -46,7 +50,7 @@ I am a Software Engineer who loves to code as much as I love to lead people—th
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=my-website&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera0001&repo=chidera-portfolio&theme=github_dark)](https://github.com/Chidera0001/chidera-portfolio)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)

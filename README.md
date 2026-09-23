@@ -5,17 +5,17 @@ Product Engineer
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-I got into a motorbike accident a few years back. The road had been damaged for months and nobody knew where to report it — that eventually became [Citizn](https://citiznvoice.com).
+I got into a motorbike accident a few years back. The road had been damaged for months, and nobody knew where to report it; that eventually gave rise to [Citizn](https://citiznvoice.com).
 
-That's usually how it starts for me. I notice something that doesn't work the way it should, then spend way too long trying to fix it. These days that's [iDiscovr](https://idiscovr.app) — helping independent artists find collaborators based on their actual sound instead of follower count — alongside Venue Intelligence, which I build full-time at [Venue Manager](https://www.venuemanager.net/).
+That is me. I build to solve problems I personally faced or see people face every day. These days that's [iDiscovr](https://idiscovr.app) — helping independent artists in Nigeria gain visibility, find collaborators based on their actual sound instead of follower count. 
 
-Code is just the tool. I'm more interested in why the problem exists in the first place.
+Code is just a tool to me. I am more interested in why the problem exists in the first place.
 
 *   🌍  Based in Kigali, Rwanda
 *   🖥️  Portfolio & résumé at [chidera-portfolio-chi.vercel.app](https://chidera-portfolio-chi.vercel.app)
 *   ✉️  Reach me at [anelechidera4@gmail.com](mailto:anelechidera4@gmail.com)
 *   📅  Or just [book a 30-min call](https://cal.com/anele-chidera-enoeyz/30min) directly
-*   🛠️  Mostly React, React Native, Next.js, and Node.js — with AI/LLM integration (Gemini, Claude) folded into most of what I ship now
+*   🛠️  Mostly React, React Native, Flutter, Next.js, and Node.js — with AI/LLM integration (Gemini, Claude) folded into most of what I ship now
 *   ⚡  If at first you don't succeed... call it version 1.0 🤫
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
